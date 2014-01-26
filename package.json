@@ -1,0 +1,35 @@
+{
+  "name": "kokiya",
+  "version": "0.0.0-1",
+  "description": "angularjs components management",
+  "main": "lib",
+  "engines": {
+    "node":">=0.10.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sepmein/kokiya.git"
+  },
+  "keywords": [
+    "angular",
+    "angularjs",
+    "web",
+    "component"
+  ],
+  "author": "sepmein",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sepmein/kokiya/issues"
+  },
+  "homepage": "https://kokiya.com",
+  "bin": {
+    "kokiya": "bin/kokiya"
+  },
+  "preferGlobal": true,
+  "dependencies" :{
+
+  }
+}
