@@ -1,6 +1,6 @@
 {
   "name": "kokiya",
-  "version": "0.0.0-1",
+  "version": "0.0.0-2",
   "description": "angularjs components management",
   "main": "lib",
   "engines": {
